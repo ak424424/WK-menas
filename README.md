@@ -1,2 +1,2 @@
-# WK-menas
+# WK-means
 WK-means: Market Regime Detection
